@@ -93,7 +93,7 @@ pardus-config-kde-fatih          |32|64| |KDE|-----|----| |------|Fatih|--------
 pardus-config-kde-kurumsal       |32|64| |KDE|-----|----| |------|-----|Kurumsal|--------| |wheezy|sid| xxxxxxxxxxxxxxx
 pardus-config-kde-bireysel       |32|64| |KDE|-----|----| |------|-----|--------|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
 pardus-icon-theme-milky-index    |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
-pardus-icon-theme-milky-png      |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
+pardus-icon-theme-yellow-png      |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
 pardus-icon-theme-milky-svg      |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
 pardus-kdm-theme                 |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
 pardus-ksplash-theme             |32|64| |KDE|-----|----| |Sunucu|Fatih|Kurumsal|Topluluk| |wheezy|sid| xxxxxxxxxxxxxxx
